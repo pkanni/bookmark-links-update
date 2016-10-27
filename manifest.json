@@ -1,0 +1,14 @@
+{
+  "name": "Bookmark Links Update",
+  "description": "Extension to update bookmark links",
+  "version": "1.0",
+
+  "permissions": ["bookmarks"],
+
+  "options_page": "options.html",
+  
+  "icons": {
+    "128": "icon.png"
+  },
+  "manifest_version": 2
+}
